@@ -1,5 +1,6 @@
 <!--index.wxml-->
 <LinkList/>
+<klkl/>
 <view class="tr">
 <image src="../../images/6.666.gif" 
 style="width: 358px;" mode ="widthFix"></image>
